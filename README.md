@@ -1,4 +1,4 @@
-# Statistical data analysis using the R programming language
+# Statistical data analysis 
 
 During my study for the master's degree, I undertook a highly valuable course titled 'Statistical Techniques for Data Science.' Throughout the duration of this course, I acquired and practiced numerous statistical data analysis skills across various tasks and assignments. For instance, I delved into the principles of statistics, with a particular focus on traditional test-based approaches, probabilistic modeling, and linear regression. I also explored topics such as analyzing continuous outcomes with discrete/categorical predictor variables, ANOVA (analysis of variance), and interactions between variables. Moreover, I investigated how the effect of one variable can depend on the value of another variable. The process of model building, including the concept of model selection, was also an integral part of my learning experience.
 
